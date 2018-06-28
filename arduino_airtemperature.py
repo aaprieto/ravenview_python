@@ -9,7 +9,8 @@ import http.client
 import requests
 # run by:  python3.5 arduino_airtemperature.py
 
-# initialize GPIO
+# initialize GPIO for raspberry pi
+# New Changes to be made
 
 GPIO.setwarnings(False)
 GPIO.setmode(GPIO.BCM) 
