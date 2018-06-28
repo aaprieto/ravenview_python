@@ -11,6 +11,7 @@ import requests
 
 # initialize GPIO for raspberry pi
 # New Changes to be made
+# Specifically make some changes with regards to Git and GitHub
 
 GPIO.setwarnings(False)
 GPIO.setmode(GPIO.BCM) 
